@@ -52,9 +52,6 @@ const Chart = ({ timeframe }) => {
             dataKey="value"
             stroke="#82ca9d"
             fill="#82ca9d"
-            onClick={(data) => {
-              alert(`Timestamp: ${data.timestamp}\nValue: ${data.value}`);
-            }}
           />
           <Brush dataKey="timestamp" height={30} stroke="#8884d8" />
       </AreaChart>
