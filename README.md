@@ -15,7 +15,7 @@ Fetches data from a JSON file.
 Includes a responsive design for mobile devices.
 
 Deployment:  
-The application is deployed using Vercel and can be accessed at 
+The application is deployed using Vercel and can be accessed at https://probz-ai-rk.vercel.app/
 
 ## Installation
 
